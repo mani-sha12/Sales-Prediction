@@ -12,12 +12,19 @@ sales-prediction/
 ├── model/
 │   └── model.pkl
 │
+
 ├── app/
+
 │   └── app.py (Streamlit or Flask)
+
 │
+
 ├── requirements.txt
+
 ├── README.md
+
 └── train.py
+
 -->Features
 
 -Data cleaning and preprocessing
