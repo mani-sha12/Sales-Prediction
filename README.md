@@ -19,6 +19,7 @@ sales-prediction/
 ├── README.md
 └── train.py
 -->Features
+
 -Data cleaning and preprocessing
 -
 -Exploratory Data Analysis (EDA)
